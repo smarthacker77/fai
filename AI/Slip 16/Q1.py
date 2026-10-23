@@ -1,0 +1,5 @@
+t = (10, 20, 30, 40, 50)
+print("tuble:",t)
+print("Largest:", max(t))
+print("Smallest:", min(t))
+print("Average:", sum(t) / len(t))
